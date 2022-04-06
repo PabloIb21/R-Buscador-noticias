@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> mount 1`] = `
+<nav
+  className="nav-wrapper light-blue darken-3"
+>
+  <a
+    className="brand-logo center"
+    href="#!"
+  >
+    Hola Mundo
+  </a>
+</nav>
+`;

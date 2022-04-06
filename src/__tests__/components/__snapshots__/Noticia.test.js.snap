@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Noticia /> mount 1`] = `
+<div
+  className="col s12 m6 l4"
+>
+  <div
+    className="card"
+  >
+    <div
+      className="card-image"
+    >
+      <img
+        alt="Hola Mundo"
+        src="https://google.com/image.jpg"
+      />
+      <span
+        className="card-title"
+      />
+    </div>
+    <div
+      className="card-content"
+    >
+      <h3>
+        Hola Mundo
+      </h3>
+      <p>
+        lorem ipsum
+      </p>
+    </div>
+    <div
+      className="card-action"
+    >
+      <a
+        className="waves-effect waves-light btn"
+        href="https://google.com"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        Ver Noticia Completa
+      </a>
+    </div>
+  </div>
+</div>
+`;

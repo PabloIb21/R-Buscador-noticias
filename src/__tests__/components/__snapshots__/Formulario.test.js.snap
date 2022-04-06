@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Formulario /> mount 1`] = `
+<div
+  className="buscador row"
+>
+  <div
+    className="col s12 m8 offset-m2"
+  >
+    <form
+      onSubmit={[Function]}
+    >
+      <h2
+        className="heading"
+      >
+        Encuentra noticias por categoria
+      </h2>
+      <select
+        className="browser-default"
+        onChange={[Function]}
+        value="general"
+      >
+        <option
+          key="general"
+          value="general"
+        >
+          General
+        </option>
+        <option
+          key="business"
+          value="business"
+        >
+          Negocios
+        </option>
+        <option
+          key="entertainment"
+          value="entertainment"
+        >
+          Entretenimiento
+        </option>
+        <option
+          key="health"
+          value="health"
+        >
+          Salud
+        </option>
+        <option
+          key="science"
+          value="science"
+        >
+          Ciencia
+        </option>
+        <option
+          key="sports"
+          value="sports"
+        >
+          Deportes
+        </option>
+        <option
+          key="technology"
+          value="technology"
+        >
+          Tecnología
+        </option>
+      </select>
+      <div
+        className="input-field col s12"
+      >
+        <input
+          className="btn_block btn-large amber darken-2"
+          type="submit"
+          value="Buscar"
+        />
+      </div>
+    </form>
+  </div>
+</div>
+`;
